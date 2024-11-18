@@ -11,10 +11,10 @@ import { Component } from '@angular/core';
       <nav class="nav-links">
         <ul>
           <li><a href="https://www.example.com" target="_blank">Home</a></li>
-          <li><a href="https://www.example.com/about" target="_blank">About</a></li>
-          <li><a href="https://www.example.com/services" target="_blank">Services</a></li>
-          <li><a href="https://www.example.com/blog" target="_blank">Blog</a></li>
-          <li><a href="https://www.example.com/contact" target="_blank">Contact</a></li>
+          <li><a href="https://www.example.com" target="_blank">About</a></li>
+          <li><a href="https://www.example.com" target="_blank">Services</a></li>
+          <li><a href="https://www.example.com" target="_blank">Blog</a></li>
+          <li><a href="https://www.example.com" target="_blank">Contact</a></li>
         </ul>
       </nav>
     </header>
