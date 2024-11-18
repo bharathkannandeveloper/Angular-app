@@ -25,8 +25,8 @@ import { Component } from '@angular/core';
     
     .hero {
       position: fixed;
-      background-image: url('https://www.abilityfirst.org/wp-content/uploads/revslider/slider_9/video-bg-1024x576.jpg');
-      background-size: cover;
+      background-image: url('https://wallpapers.com/images/high/naruto-black-1592-x-876-background-kl256x1uz9xv9vnr.webp');
+      background-size: 70%;
       background-position: center;
       width: 110%;
       height: 100%;
